@@ -59,6 +59,7 @@ void finish(){
   display2 = 0;
   display3 = 0;
   timer = 0;
+  showDisplay();
 }
 
 void actions(){
